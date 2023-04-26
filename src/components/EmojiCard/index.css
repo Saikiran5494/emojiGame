@@ -1,0 +1,9 @@
+/* Write your code here. */
+.emoji-button {
+  background-color: #ffffff33;
+  border-radius: 15px;
+  border: 3px solid #ffffff33;
+  margin: 3px;
+  padding: 10px;
+  cursor: pointer;
+}

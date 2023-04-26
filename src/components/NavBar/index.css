@@ -1,0 +1,30 @@
+/* Write your code here. */
+.navbar {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.emoji {
+  display: flex;
+  color: #ffffff;
+}
+
+.details {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+@media screen and (min-width: 768px) {
+  .details {
+    width: 20%;
+  }
+}
+
+.score {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+}
